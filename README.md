@@ -3,14 +3,14 @@
 
 # Next.js + React
 > ### https://github.com/jmynn/avion
-  > parallel and intersepting route, api route
+  > parallel and intersepting route, api route      
   > next.js, typescript, react-responsive, prisma, mongodb + figma макет, mobile first, adative, responsive
 
 > ### https://github.com/jmynn/realtime-chat-nextjs-socket.io-
   > next.js, typescript, prisma, mongodb, nextauth, socket.io, swr, scss, chakra ui
 
 > ### https://github.com/jmynn/nextjs-13-app-router
-  > parallel and intersepting route, api route
+  > parallel and intersepting route, api route       
   > next.js, swr
 
 > ### https://github.com/jmynn/hangman
