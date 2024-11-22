@@ -2,6 +2,7 @@
   > 
 
 # Next.js + React
+> ### https://github.com/jmynn/xnails, https://xnails.vercel.app/
 > ### https://github.com/jmynn/avion
   > parallel and intersepting route, api route      
   > next.js, typescript, react-responsive, prisma, mongodb + figma макет, mobile first, adative, responsive
