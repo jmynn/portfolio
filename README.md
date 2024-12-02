@@ -1,7 +1,6 @@
-> ###
-  > 
 
 # Next.js + React
+> ### https://github.com/jmynn/gid.group
 > ### https://github.com/jmynn/xnails, https://xnails.vercel.app/
 > ### https://github.com/jmynn/avion
   > parallel and intersepting route, api route      
