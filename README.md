@@ -1,8 +1,9 @@
 
 # Next.js + React
-> ### https://github.com/jmynn/gid.group
-> ### https://github.com/jmynn/xnails, https://xnails.vercel.app/
+> ### https://github.com/jmynn/bcs-desktop-3, >> https://bcs-desktop-3.vercel.app/
+> ### https://github.com/jmynn/xnails, >> https://xnails.vercel.app/
 > ### https://github.com/jmynn/avion
+> ### https://github.com/jmynn/gid.group
 
 > ### https://github.com/jmynn/realtime-chat-nextjs-socket.io-
 
@@ -12,8 +13,11 @@
 > ### https://github.com/jmynn/optimized-search
 
 > ### https://github.com/jmynn/tic-tac-toe-chakra-ui-
+
+## vue
+> https://github.com/jmynn/Plant-Shop
 # Верстка по макетам
-> ### https://github.com/jmynn/bcs, https://jmynn.github.io/bcs/
+> ### https://github.com/jmynn/bcs, >> https://jmynn.github.io/bcs/
 
 > ### https://github.com/jmynn/mnk, https://spa-mnk.firebaseapp.com/
 
